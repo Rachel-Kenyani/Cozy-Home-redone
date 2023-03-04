@@ -1,0 +1,542 @@
+#cozy{
+    position: absolute;
+    top: 110px;
+    left: 6.4cm;
+    font-size: x-large;
+
+}
+#h{
+    color: white;
+}
+#home{
+    color: #ffac7d;
+}
+a{
+    color:#ffe5d6;
+    text-decoration: none;
+    font-size: x-large;
+    list-style-type: none;
+}
+#shop{ 
+    position: absolute;
+    top: 143px;
+    left:14cm;
+    list-style-type: none;
+}
+#styles{
+    position: absolute;
+    top: 143px;
+    left: 19cm;
+    list-style-type: none;
+}
+#offers{
+    position: absolute;
+    top: 143px;
+    left: 24cm;
+    list-style-type: none;
+}
+#search{
+    position: absolute;
+    top: 145px;
+    margin-left: 4cm;
+    border-radius: 7px; 
+    padding: 5px;
+    left: 915px;
+    background-color: rgb(198, 192, 192);
+    padding-right: 3.5cm;
+}
+#glass{
+    position: absolute;
+    left:1070px;
+    top: 150px;
+}
+#pinterest{
+    position: absolute;
+    left:1300px;
+    top: 150px;
+}
+#camera{
+    position: absolute;
+    left:1343px;
+    top: 150px;
+}
+#user{
+    position: absolute;
+    left:1420px;
+    top: 150px ;
+}
+#bag{
+    position: absolute;
+    left:1480px;
+    top: 150px ;
+}
+#line1{
+    border: 1px solid rgb(190, 184, 184);
+    position: absolute; 
+    top: 5cm;
+    left: 6cm;
+    right: 5.2cm;
+}
+.makehome{
+    text-align: center;
+    padding-top: 6cm;
+    color: #ffe5d6;  
+}
+#dream{
+    font-size: 2cm;
+    font-family: 'Courier New', Courier, monospace;
+}
+#text{
+    font-size: 25px;
+}
+#button1{
+    padding: 10px 39px 10px 10px;
+    border-radius: 10px;
+    background-color: #ffac7d;
+    margin-left: 20cm;
+    color: #002d3d;
+    font-size: large;
+    border: none;
+}
+#arrow{
+    position: absolute;
+    top: 590px;
+    font-size: 40px;
+}
+.firstpage{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(/Images/first2.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    width: 100%;
+    height: 30cm;
+    margin: 0%;
+    padding: 0%;
+}
+.shopnow{
+    margin-bottom: 7cm;
+}
+#explore{
+    position: absolute;
+    top: 32cm;
+    padding-left: 7cm;
+    color: #002d3d;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+
+}
+#line2{
+    position: absolute;
+    top: 32.9cm;
+    left: 19cm;
+    height: 2px;
+    background-color: rgb(155, 151, 151);
+    padding-right: 5cm;   
+}
+#strike{
+    position: absolute;
+    top: 35.7cm;
+    left: 7cm;
+    right: 7cm;
+    height: 2px;
+    background-color: #f1bd9f;
+    padding-right: 5cm;
+}
+#modernn{
+    position: absolute;
+    top: 35cm;
+    left:7cm ;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: #f1bd9f;
+    height: 1cm;
+    width: 8cm;
+    
+}
+#modern{
+    position: absolute;
+    left:10cm ;
+    top: 34.1cm;
+    font-size: x-large;
+}
+#modernpic{
+    position: absolute;
+    top: 37cm;
+    left:7cm;
+}
+#classic{
+    position: absolute;
+    left:22cm ;
+    top: 34.1cm;
+    font-size: x-large;
+}
+#classicpic{
+    position: absolute;
+    left: 20cm;
+    top: 37cm;
+    width: 17%;
+}
+#scandinavian{
+    position: absolute;
+    left:33cm ;
+    top: 34.1cm;
+    font-size: x-large;
+
+}
+#scandinavianpic{
+    position: absolute;
+    left: 32cm;
+    top: 37cm;
+    width: 17%;
+}
+#discover{
+    position: absolute;
+    top:47cm ;
+    left: 22cm;
+    padding: 10px 45px 10px 10px;
+    border-radius: 10px;
+    background-color: #ffac7d;
+    font-size: large;
+    border: none;
+}
+#arrow2{
+    position: absolute;
+    top: 2px;
+    font-size: 40px;
+}
+.thirdpage{
+    position: absolute;
+    top: 51cm;
+    left: 7px;
+    right: 7px;
+    height:17cm;
+    background-color: #002d3d;
+}
+#popular{
+    padding-left: 7cm;
+    color: #ffac7d;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+#line3{
+    position: absolute;
+    top: 32px;
+    left: 17cm;
+    height: 2px;
+    background-color: #ffac7d;
+    font-size: large;
+    padding-right: 5cm;  
+}
+#rusticpic{
+    position: absolute;
+    left: 7cm;
+    top: 98px;
+    width: 18%;
+
+}
+#rustic{
+    position: absolute;
+    top: 400px;
+    left: 7cm;
+    font-size: large;
+    color: #ffe5d6;
+
+}
+#rustic1{
+    position: absolute;
+    top: 12cm;
+    left: 7cm;
+    color: #ffe5d6;
+}
+#heart1{
+    position: absolute;
+    left: 7.5cm;
+}
+#oakpic{
+    position: absolute;
+    left: 20cm;
+    top: 98px;
+    width: 18%;
+
+}
+#oak{
+    position: absolute;
+    top: 400px;
+    left: 20cm;
+    font-size: large;
+    color: #ffe5d6;
+
+}
+#oak1{
+    position: absolute;
+    top: 12cm;
+    left: 20cm;
+    color: #ffe5d6
+}
+#heart2{
+    position: absolute;
+    left: 7.5cm;
+}
+#chairpic{
+    position: absolute;
+    left: 32cm;
+    top: 98px;
+    width: 18%;
+
+}
+#chair{
+    position: absolute;
+    top: 400px;
+    left: 32cm;
+    font-size: large;
+    color: #ffe5d6;
+}
+#chair1{
+    position: absolute;
+    top: 12cm;
+    left: 32cm;
+    color: #ffe5d6
+}
+#heart3{
+    position: absolute;
+    left: 7.5cm;
+}
+#all{
+    position: absolute;
+    top: 15cm;
+    left: 22cm;
+    padding: 10px 39px 10px 10px;
+    border-radius: 10px;
+    background-color: #ffac7d;
+    border: none;
+    color: #002d3d;
+    font-size: large;
+}
+.forthpage{
+    background-color: #ffe5d6;
+    position: absolute;
+    top: 68cm;
+    left: 7px;
+    right: 7px;
+    height:22cm;
+}
+.circular{
+    background-color: #f1dbd0;
+    position: absolute;
+    top: 3cm;
+    left: 1cm;
+    right: 21cm;
+    height: 19cm;
+    border-radius: 100%;
+}
+#need{
+    position: absolute;
+    top: 4cm;
+    padding-left: 6.5cm;
+    color: #002d3d;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+#line4{
+    position: absolute;
+    top: 5cm;
+    left: 17cm;
+    height: 2px;
+    background-color: #002d3d;
+    font-size: large;
+    padding-right: 4cm;
+
+}
+#text2{
+    position: absolute;
+    top: 7cm;
+    left: 6.5cm;
+    font-size: 20px;
+    color: #002d3d;
+
+}
+#ideas{
+    position: absolute;
+    top: 9cm;
+    left: 6.5cm; 
+    font-size: x-large;
+
+}
+#line5{
+    position: absolute;
+    top: 11cm;
+    left: 6.5cm;
+    height: 2px;
+    background-color: #002d3d;
+    padding-right: 4cm;
+}
+#style{
+    position: absolute;
+    top: 11.5cm;
+    left: 6.5cm; 
+    font-size: x-large;
+}
+#line6{
+    position: absolute;
+    top: 13.4cm;
+    left: 6.5cm;
+    height: 2px;
+    background-color: #002d3d;
+    padding-right: 4cm;
+}
+#blog{
+    position: absolute;
+    top: 14cm;
+    left: 6.5cm; 
+    font-size: x-large;
+}
+#line7{
+    position: absolute;
+    top: 16cm;
+    left: 6.5cm;
+    height: 2px;
+    background-color: #002d3d;
+    padding-right: 4cm;
+}
+#lastpic{
+    position: absolute;
+    top:3cm;
+    right: 4cm;
+    width: 35%;
+
+}
+#newsletter{
+    position: absolute;
+    top: 92cm;
+    left: 18cm;
+    font-size: 40px;
+}
+#get{
+    position: absolute;
+    top: 94cm;
+    left: 15cm;
+    font-size: x-large;
+}
+#email{
+    position: absolute;
+    top: 97cm;
+    left: 16cm;
+    border-radius: 7px;
+    padding: 5px 200px 5px 20px;
+}
+#go{
+    position: absolute;
+    top:97cm ;
+    left: 29cm;
+    padding: 10px 30px;
+    background-color: #ffac7d;
+    border-radius: 10px;
+    border: none;
+}
+.fifthpage{
+    position: absolute;
+    top: 100cm;
+    left: 7px;
+    right: 7px;
+    height:10cm;
+    background-color: #002d3d;
+}
+#ch{
+    position: absolute;
+    top:3cm;
+    left: 6.5cm;
+    font-size: x-large;
+
+}
+#ig{
+    position: absolute;
+    top:5.5cm ;
+    left: 6.5cm;
+    font-size: xx-large;
+    color: white;
+}
+#pin{
+    position: absolute;
+    top:5.5cm ;
+    left: 8cm;
+    font-size: xx-large;
+    color: white;
+}
+#fb{
+    position: absolute;
+    top:5.5cm ;
+    left: 9.3cm;
+    font-size: xx-large;
+    color: white;
+}
+#copy{
+    position: absolute;
+    top:7cm ;
+    left: 6.5cm;
+    font-size: xx-small;
+    color: white;
+}
+#ch20{
+    position: absolute;
+    top:6.7cm ;
+    left: 7cm;
+    font-size: xx-small;
+    color: white; 
+}
+.secondr{
+    position: absolute;
+    top:3.6cm ;
+    left: 13cm;
+    font-size: xx-small;
+    color: white; 
+}
+#secondrow{
+    list-style-type: none;
+    line-height: 33px;
+}
+.thirdr{
+    position: absolute;
+    top:3.6cm ;
+    left: 20cm;
+    font-size: xx-small;
+    color: white; 
+}
+#thirdrow{
+    list-style-type: none;
+    line-height: 33px; 
+}
+.forthr{
+    position: absolute;
+    top:3.6cm ;
+    left: 25cm;
+    font-size: xx-small;
+    color: white;
+}
+#forthrow{
+    list-style-type: none;
+    line-height: 33px; 
+}
+.fifthr{
+    position: absolute;
+    top:3.6cm ;
+    left: 32cm;
+    font-size: xx-small;
+    color: white;
+}
+#fifthrow{
+    list-style-type: none;
+    line-height: 33px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
